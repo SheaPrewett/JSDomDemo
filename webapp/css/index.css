@@ -1,0 +1,15 @@
+.center {
+    margin: auto;
+    width: 50%;
+    padding:10px;
+}
+.collapse {
+    margin:auto;
+}
+td {
+    width:50%;
+    align:center;
+}
+th {
+    font-size: 50px;
+}
